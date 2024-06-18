@@ -1,0 +1,112 @@
+
+.navbar-logo img {
+  height: auto;
+  width: 50px;
+  vertical-align: middle;
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+    background-color: rgb(238, 147, 162);
+    height: 60px;
+}
+
+
+.navbar a {
+    float: left;
+    display: block;
+    color: whitesmoke;
+    text-align: center;
+    padding: 0px 15px;
+    line-height: 50px;
+    text-decoration: none;
+}
+  
+.navbar a:hover {
+    background-color: rgb(238, 147, 162);
+    color: rgb(144, 124, 124);
+}
+
+body {
+    font-family: "Yomogi";
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgb(238, 147, 162);
+    background-color: rgb(255, 243, 245);
+    width: 800px;
+    height:100%;
+    position: relative;
+    margin-left: 10px;
+
+}
+
+section .content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+section img {
+    max-height: 300px;
+    width: auto;
+    object-fit: cover;
+    vertical-align: top;
+}
+
+p {
+    padding-left: 20px;
+    display: inline-block; 
+}
+
+section a {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: right; 
+}
+
+section h2{
+    margin-left: 10px;
+}
+
+ul li {
+    font-size: 15px;
+}
+
+span {
+    float: right;
+}
+
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    margin-bottom: 20px;
+}
+
+footer img {
+    height: auto;
+    width: 50px;
+    margin: 20px;
+}
+
+footer .links {
+    gap: 20px;
+    display: flex;
+}
