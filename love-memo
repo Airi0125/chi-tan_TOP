@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+
+<html lang="ja"
+
+    <head>
+        <meta charset="UTF-8">
+        <title>chi-tan_diary.html</title>
+        <link rel="stylesheet" href="./style.css">
+        <link href="https://fonts.googleapis.com/css2?family=Klee+One&family=Yomogi&display=swap" rel="stylesheet">
+        
+    </head>
+
+    <body>
+        
+        <header>
+            <div class="navbar">
+                 <a class="navbar-logo">
+                    <img src="./mow.jpg" alt="もぅ">
+                    <a href="./TOP.html">TOP</a>
+                    <a href="./日記.html">日記</a>
+                    <a href="./愛メモ.html">愛メモ</a>
+                </a>
+             </div>
+        </header>
+
+
+        <main>
+            <h1>🧸愛メモ🧸</h1>
+            <p>ちーたんの好きなところ、メモしていきます。<br>
+                何個あるかな？
+            </p> 
+
+            <br><br><br>
+            <section>
+                <div class="content">
+                    <ul>
+                            <li>毎日遅くまで仕事を頑張っているところ</li>
+                            <li>なのにいつも弱音吐かないで「普通だよ」っていうところ</li>
+                            <li>仕事だけでも大変なのに勉強もストイックにして結果だしてるところ</li>
+                            <li>土日にバスケとかタフすぎるところ</li>
+                            <li>私のために仕事を頑張って時間を作ってくれるところ</li>
+                            <li>思いっきりふざけてくれたりして面白いところ</li>
+                            <li>ほんとに思ったことを言ってくれるところ</li>
+                            <li>歌が半端なくうまいところ</li>
+                            <li>私の好きな曲を歌ってくれて楽しませてくれるところ</li>
+                            <li>ステキな歌たくさん知ってるところ</li>
+                            <li>自分の好きなものについては誰よりも深く知ってるところ</li>
+                            <li>服装も小物も香水も、趣味がおしゃれなところ</li>
+                            <li>身長が高くてスタイルが良いところ</li>
+                            <li>目が切れ長で鼻が通っていてかっこいいところ</li>
+                            <li>肌がきれいで唇もいつもすべすべなところ</li>
+                            <li>汗びしょかいてもいいにおいなところ</li>
+                            <li>いっぱい困らせたのに私と今も一緒にいてくれるところ</li>
+                            <br>
+
+                    <ul> 
+                </div>
+             </section>
+
+        </main>
+
+        <br><br><br>
+
+        <footer> 
+            <div class="links">
+                 <a href="./TOP.html">TOP</a>
+                 <a href="./日記.html">日記</a>
+                 <a href="./愛メモ.html">愛メモ</a>
+            </div>
+            <img src="./chi-tan.jpg" alt="ちーたん">
+            
+        </footer>   
+
+
+
+
+
+  
+
+
+    </body>
+</html>
